@@ -1,0 +1,43 @@
+body{
+    background: url(https://png.pngtree.com/thumb_back/fh260/background/20230511/pngtree-nature-background-sunset-wallpaer-with-beautiful-flower-farms-image_2592160.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.navbar-brand{
+    color: white !important;
+}
+.form {
+    /* justify-content: center; */
+    /* display: flex; */
+    position: relative;
+    top: -40px;
+    left: 120px;
+   width: 40%;
+   height: 30%;
+   background:transparent;
+   display: inline-block;
+   color: white;
+}
+.form-container{
+    display: inline-block;
+    /* background: red; */
+    width: 30%;
+    position: relative;
+    left: 30%;
+    top: 150px;
+    padding-top: 150px;
+    height: 400px;
+    border-radius: 30px;
+    backdrop-filter: blur(20px); 
+    box-shadow: 0 0 30px rgba(0,0,0,0.5); 
+}
+.form-container h1{
+    color: white;
+    position: relative;
+    top: -100px;
+    left: 120px;
+}
+.signup{
+    position: relative;
+    left: 30px;
+}
